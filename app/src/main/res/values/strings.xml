@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ready_steady_bang</string>
+    <string name="one_player">One player</string>
+    <string name="two_player">Two player</string>
+    <string name="be_ready">Be ready</string>
+    <string name="player_1_tap_to_shoot">Player 1 tap to shoot</string>
+    <string name="player_2_tap_to_shoot">Player 2 tap to shoot</string>
+    <string name="_0">0</string>
+
+    <string name="tap_for_shoot">Tap to shoot</string>
+    <string name="player_win">PLAYER WIN</string>
+    <string name="too_early">TOO EARLY! YOU LOSE</string>
+    <string name="wait_for_next_round">Wait for next round</string>
+</resources>
